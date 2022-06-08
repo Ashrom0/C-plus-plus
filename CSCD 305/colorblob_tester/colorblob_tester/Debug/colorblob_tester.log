@@ -1,0 +1,11 @@
+﻿  Color.cpp
+  ColorBlob.cpp
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\ColorBlob.cpp(6,45): error C2084: function 'ColorBlob::ColorBlob(int,int,Color)' already has a body
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\ColorBlob.h(17): message : see previous definition of '{ctor}'
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\ColorBlob.cpp(18,58): error C2084: function 'ColorBlob::ColorBlob(int,int,Color)' already has a body
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\ColorBlob.cpp(6): message : see previous definition of '{ctor}'
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\ColorBlob.cpp(152,25): error C2676: binary '!=': 'Color' does not define this operator or a conversion to a type acceptable to the predefined operator
+  colorblob_tester.cpp
+  Generating Code...
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\Color.cpp(60): error C4716: 'operator<<': must return a value
+C:\Users\votef\source\repos\CSCD305\colorblob_tester\colorblob_tester\Color.cpp(64): error C4716: 'operator>>': must return a value

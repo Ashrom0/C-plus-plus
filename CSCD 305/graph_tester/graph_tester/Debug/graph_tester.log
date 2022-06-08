@@ -1,0 +1,7 @@
+﻿  Graph.cpp
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.cpp(14,50): error C2511: 'bool Graph::loadCityInformation(std::string)': overloaded member function not found in 'Graph'
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.h(10): message : see declaration of 'Graph'
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.cpp(33,24): error C2597: illegal reference to non-static member 'Graph::Connectivity'
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.cpp(33,24): error C3867: 'Graph::Connectivity': non-standard syntax; use '&' to create a pointer to member
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.cpp(33,24): error C2109: subscript requires array or pointer type
+C:\Users\votef\source\repos\CSCD305\graph_tester\graph_tester\Graph.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
